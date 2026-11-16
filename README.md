@@ -64,5 +64,158 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kommo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kommo.com/
+Kommo provides an AI‑powered CRM platform that automates sales and messaging across multiple channels. It offers tools such as unified inbox, sales bot, AI agents, and integrations with WhatsApp, Instagram, TikTok, and Facebook Messenger. The service supports private integrations, webhooks, OAuth 2.0, and long‑lived tokens for developers building custom workflows. Kommo targets businesses in retail, healthcare, fitness, and entertainment, delivering a unified view of customer interactions and AI‑driven insights.
+
+**Areas:** CRM · AI · Sales · Messaging · Integration
+
+## Kommo on APIs.io
+
+Everything profiled for Kommo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kommo/](https://apis.io/providers/kommo/)** — or go straight to one of the APIs or properties below.
+
+### APIs (38)
+
+- [Kommo Account API](https://apis.io/apis/kommo/kommo-account-api/) — The Account API from Kommo — 1 operation(s) for account.
+- [Kommo Agent API](https://apis.io/apis/kommo/kommo-agent-api/) — The Agent API from Kommo — 1 operation(s) for agent.
+- [Kommo Bots API](https://apis.io/apis/kommo/kommo-bots-api/) — The Bots API from Kommo — 5 operation(s) for bots.
+- [Kommo Calls API](https://apis.io/apis/kommo/kommo-calls-api/) — The Calls API from Kommo — 1 operation(s) for calls.
+- [Kommo Catalog API](https://apis.io/apis/kommo/kommo-catalog-api/) — The Catalog API from Kommo — 1 operation(s) for catalog.
+- [Kommo Catalogs API](https://apis.io/apis/kommo/kommo-catalogs-api/) — The Catalogs API from Kommo — 8 operation(s) for catalogs.
+- [Kommo Chats API](https://apis.io/apis/kommo/kommo-chats-api-api/) — The Chats Api API from Kommo — 1 operation(s) for chats api.
+- [Kommo Chats API](https://apis.io/apis/kommo/kommo-chats-api/) — The Chats API from Kommo — 6 operation(s) for chats.
+- [Kommo Companies API](https://apis.io/apis/kommo/kommo-companies-api/) — The Companies API from Kommo — 2 operation(s) for companies.
+- [Kommo Connect API](https://apis.io/apis/kommo/kommo-connect-api/) — The Connect API from Kommo — 1 operation(s) for connect.
+- [Kommo Contacts API](https://apis.io/apis/kommo/kommo-contacts-api/) — The Contacts API from Kommo — 3 operation(s) for contacts.
+- [Kommo Continue API](https://apis.io/apis/kommo/kommo-continue-api/) — The Continue API from Kommo — 1 operation(s) for continue.
+- [Kommo Custom Fields API](https://apis.io/apis/kommo/kommo-custom-fields-api/) — The Custom Fields API from Kommo — 6 operation(s) for custom fields.
+- [Kommo Delivery Status API](https://apis.io/apis/kommo/kommo-delivery-status-api/) — The Delivery Status API from Kommo — 1 operation(s) for delivery status.
+- [Kommo Disconnect API](https://apis.io/apis/kommo/kommo-disconnect-api/) — The Disconnect API from Kommo — 1 operation(s) for disconnect.
+- [Kommo Events API](https://apis.io/apis/kommo/kommo-events-api/) — The Events API from Kommo — 4 operation(s) for events.
+- [Kommo Files API](https://apis.io/apis/kommo/kommo-files-api/) — The Files API from Kommo — 6 operation(s) for files.
+- [Kommo Kommo Api References API](https://apis.io/apis/kommo/kommo-kommo-api-references-api/) — The Kommo Api References API from Kommo — 2 operation(s) for kommo api references.
+- [Kommo Leads API](https://apis.io/apis/kommo/kommo-leads-api/) — The Leads API from Kommo — 18 operation(s) for leads.
+- [Kommo Link API](https://apis.io/apis/kommo/kommo-link-api/) — The Link API from Kommo — 1 operation(s) for link.
+- [Kommo Links API](https://apis.io/apis/kommo/kommo-links-api/) — The Links API from Kommo — 1 operation(s) for links.
+- [Kommo Notes API](https://apis.io/apis/kommo/kommo-notes-api/) — The Notes API from Kommo — 5 operation(s) for notes.
+- [Kommo Oauth2 API](https://apis.io/apis/kommo/kommo-oauth2-api/) — The Oauth2 API from Kommo — 1 operation(s) for oauth2.
+- [Kommo Origin API](https://apis.io/apis/kommo/kommo-origin-api/) — The Origin API from Kommo — 7 operation(s) for origin.
+- [Kommo React API](https://apis.io/apis/kommo/kommo-react-api/) — The React API from Kommo — 1 operation(s) for react.
+- [Kommo Roles API](https://apis.io/apis/kommo/kommo-roles-api/) — The Roles API from Kommo — 2 operation(s) for roles.
+- [Kommo Sessions API](https://apis.io/apis/kommo/kommo-sessions-api/) — The Sessions API from Kommo — 1 operation(s) for sessions.
+- [Kommo Sources API](https://apis.io/apis/kommo/kommo-sources-api/) — The Sources API from Kommo — 5 operation(s) for sources.
+- [Kommo Tags API](https://apis.io/apis/kommo/kommo-tags-api/) — The Tags API from Kommo — 1 operation(s) for tags.
+- [Kommo Talks API](https://apis.io/apis/kommo/kommo-talks-api/) — The Talks API from Kommo — 5 operation(s) for talks.
+- [Kommo Tasks API](https://apis.io/apis/kommo/kommo-tasks-api/) — The Tasks API from Kommo — 2 operation(s) for tasks.
+- [Kommo Typing API](https://apis.io/apis/kommo/kommo-typing-api/) — The Typing API from Kommo — 1 operation(s) for typing.
+- [Kommo Unlink API](https://apis.io/apis/kommo/kommo-unlink-api/) — The Unlink API from Kommo — 1 operation(s) for unlink.
+- [Kommo Upload API](https://apis.io/apis/kommo/kommo-upload-api/) — The Upload API from Kommo — 1 operation(s) for upload.
+- [Kommo Users API](https://apis.io/apis/kommo/kommo-users-api/) — The Users API from Kommo — 4 operation(s) for users.
+- [Kommo Webhooks API](https://apis.io/apis/kommo/kommo-webhooks-api/) — The Webhooks API from Kommo — 1 operation(s) for webhooks.
+- [Kommo Website Buttons API](https://apis.io/apis/kommo/kommo-website-buttons-api/) — The Website Buttons API from Kommo — 4 operation(s) for website buttons.
+- [Kommo Widgets API](https://apis.io/apis/kommo/kommo-widgets-api/) — The Widgets API from Kommo — 2 operation(s) for widgets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Kommo Webhooks](https://apis.io/asyncapis/kommo/kommo-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Kommo Agentic Access](https://apis.io/agentic-access/kommo/kommo-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Kommo API Rules](https://apis.io/rules/kommo/kommo-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kommo Authentication](https://apis.io/security/kommo/kommo-authentication/)
+- [Kommo Domain Security](https://apis.io/security/kommo/kommo-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Kommo Scopes](https://apis.io/scopes/kommo/kommo-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kommo.com/)
+- [Documentation](https://developers.kommo.com/)
+- [Getting started](https://developers.kommo.com/reference/your-drive)
+- [API reference](https://developers.kommo.com/reference)
+- [Support](https://support.kommo.com/)
+- [Changelog](https://developers.kommo.com/changelog)
+- [Blog](https://www.kommo.com/blog/)
+- [Security](https://www.kommo.com/security/)
+- [Terms of service](https://www.kommo.com/terms/)
+- [Privacy policy](https://www.kommo.com/privacy/)
+- [GitHub](https://github.com/kommo-crm)
+
+## API Evangelist rating
+
+**Kin Score 52.2** — developing · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 52.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 38.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kommo/](https://apis.io/providers/kommo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kommo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kommo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
